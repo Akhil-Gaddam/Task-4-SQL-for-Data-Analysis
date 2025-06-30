@@ -8,9 +8,9 @@ Use SQL queries to extract and analyze data using the Northwind dataset.
 - GitHub
 
 ## Files Included
-- 'Task 4 SQL for Data Analysis.sql': Contains structured SQL queries used for extracting, analyzing, and optimizing data during Task 4.
-- 'northwind.sql': Dataset
-- Screenshots: Outputs for each query for documentation and verification.
+- `Task 4 SQL for Data Analysis.sql`: Contains structured SQL queries used for extracting, analyzing, and optimizing data during Task 4.
+- `northwind.sql`: Dataset
+- `Screenshots`: Outputs for each query for documentation and verification.
 
 ## Screenshots
 
